@@ -4,9 +4,9 @@ Jupyter Notebook to walk through the usage of the NextOcean API and the required
 
 ### Prerequisites
 
-Python 3.x
-Libraries required: request4EO, os, requests, yaml
-User credentials for NextOcean Store
+- Python 3.x
+- Libraries required: request4EO, os, requests, yaml
+- User credentials for NextOcean Store
 
 
 ### Installation
